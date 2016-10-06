@@ -1,0 +1,15 @@
+{
+  "name": "innovationlabtec.surge.sh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+    "dependencies": {
+    "gulp-ejs": "^2.2.1",  
+    "gulp-watch": "^4.3.10"
+  }
+}

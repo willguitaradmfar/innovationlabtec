@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node_modules/gulp/bin/gulp.js"
   },
   "author": "",
   "license": "ISC",
-    "dependencies": {
-    "gulp-ejs": "^2.2.1",  
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ejs": "^2.2.1",
     "gulp-watch": "^4.3.10"
   }
 }

@@ -1,3 +1,4 @@
+"use strict"
 const gulp = require('gulp');
 const gulpEjs = require('gulp-ejs');
 const watch = require('gulp-watch');
